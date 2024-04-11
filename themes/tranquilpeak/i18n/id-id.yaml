@@ -1,0 +1,181 @@
+## GLOBAL ##
+- id: "global.home"
+  translation: "Beranda"
+
+- id: "global.categories"
+  translation: "Kategori"
+
+- id: "global.category"
+  translation: "Kategori"
+
+- id: "global.tags"
+  translation: "Tags"
+
+- id: "global.tag"
+  translation: "Tag"
+
+- id: "global.archives"
+  translation: "Arsip"
+
+- id: "global.search"
+  translation: "Cari"
+
+- id: "global.about"
+  translation: "Tentang"
+
+- id: "global.author_picture"
+  translation: "Gambar penulis"
+
+- id: "global.github"
+  translation: "GitHub"
+
+- id: "global.stackoverflow"
+  translation: "Stack Overflow"
+
+- id: "global.twitter"
+  translation: "Twitter"
+
+- id: "global.facebook"
+  translation: "Facebook"
+
+- id: "global.google_plus"
+  translation: "Google Plus"
+
+- id: "global.linkedin"
+  translation: "LinkedIn"
+
+- id: "global.mail"
+  translation: "Mail"
+
+- id: "global.rss"
+  translation: "RSS"
+
+- id: "global.share_on_google_plus"
+  translation: "Bagikan di Google Plus"
+
+- id: "global.share_on_facebook"
+  translation: "Bagikan di Facebook"
+
+- id: "global.share_on_twitter"
+  translation: "Bagikan di Twitter"
+
+- id: "global.search_category"
+  translation: "Cari kategori"
+
+- id: "global.search_tag"
+  translation: "Cari tag"
+
+- id: "global.search_date"
+  translation: "Cari tanggal (YYYY/MM/DD)"
+
+## GLOBAL.POST_FOUND ##
+- id: "global.posts_found.zero"
+  translation: "tidak ada postingan yang ditemukan"
+
+- id: "global.posts_found.one"
+  translation: "1 postingan ditemukan"
+
+- id: "global.posts_found.other"
+  translation: "{n} postingan ditemukan"
+
+## GLOBAL.CATEGORIES_FOUND ##
+- id: "global.categories_found.zero"
+  translation: "tidak ada kategori yang ditemukan"
+
+- id: "global.categories_found.one"
+  translation: "1 kategori ditemukan"
+
+- id: "global.categories_found.other"
+  translation: "{n} kategori ditemukan"
+
+## GLOBAL.TAGS_FOUND ##
+- id: "global.tags_found.zero"
+  translation: "tidak ada tag yang ditemukan"
+
+- id: "global.tags_found.one"
+  translation: "1 tag ditemukan"
+
+- id: "global.tags_found.other"
+  translation: "{n} tag ditemukan"
+
+## PAGINATION ##
+- id: "pagination.page"
+  translation: "halaman {{ .Paginator.PageNumber }}"
+
+- id: "pagination.of"
+  translation: "dari {{ .Paginator.TotalPages }}"
+
+- id: "pagination.newer_posts"
+  translation: "POSTINGAN BARU"
+
+- id: "pagination.older_posts"
+  translation: "POSTINGAN LAMA"
+
+- id: "pagination.previous"
+  translation: "SEBELUMNYA"
+
+- id: "pagination.next"
+  translation: "SELANJUTNYA"
+
+## POST ##
+- id: "post.no_title"
+  translation: "tanpa judul"
+
+- id: "post.categorized_in"
+  translation: "di"
+
+- id: "post.tagged_in"
+  translation: "DITANDAI DI"
+
+- id: "post.toc"
+  translation: "Daftar Isi"
+
+- id: "post.read_more"
+  translation: "Lanjutkan membaca"
+
+- id: "post.go_to_website"
+  translation: "Pergi ke website"
+
+- id: "post.comment_and_share"
+  translation: "Komentari dan bagikan"
+
+## FOOTER ##
+- id: "footer.all_rights_reserved"
+  translation: "All Rights Reserved"
+
+## DATE ##
+- id: "date.month.january"
+  translation: "Januari"
+
+- id: "date.month.february"
+  translation: "Februari"
+
+- id: "date.month.march"
+  translation: "Maret"
+
+- id: "date.month.april"
+  translation: "April"
+
+- id: "date.month.may"
+  translation: "Mei"
+
+- id: "date.month.june"
+  translation: "Juni"
+
+- id: "date.month.july"
+  translation: "Juli"
+
+- id: "date.month.august"
+  translation: "Agustus"
+
+- id: "date.month.september"
+  translation: "September"
+
+- id: "date.month.october"
+  translation: "Oktober"
+
+- id: "date.month.november"
+  translation: "November"
+
+- id: "date.month.december"
+  translation: "Desember"

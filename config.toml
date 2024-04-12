@@ -97,7 +97,7 @@ canonifyurls = true
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
-  url = "https://github.com/kakawait"
+  url = "https://github.com/f-lambda-z"
 [[menu.links]]
   weight = 2
   identifier = "brainly"
@@ -110,7 +110,7 @@ canonifyurls = true
   identifier = "repository"
   name = "Source Code"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-code\" aria-hidden=\"true\"></i>"
-  url = "https://github.com/fazbrainly/f-lambda-z"
+  url = "https://github.com/f-lambda-z/f-lambda-z.github.io"
 
 # -------------
 # Customization

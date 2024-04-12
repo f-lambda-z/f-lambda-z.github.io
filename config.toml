@@ -102,7 +102,7 @@ canonifyurls = true
   weight = 2
   identifier = "brainly"
   name = "Brainly"
-  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-brain\" aria-hidden=\"true\"></i>"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-brain\" aria-hidden=\"true\"></i>"
   url = "https://brainly.co.id/profil/FΛZ-58027659"
 
 # -------------

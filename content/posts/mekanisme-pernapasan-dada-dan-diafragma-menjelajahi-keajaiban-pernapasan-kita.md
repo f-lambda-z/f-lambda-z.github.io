@@ -3,8 +3,6 @@ title: "Mekanisme Pernapasan Dada dan Diafragma: Menjelajahi Keajaiban Pernapasa
 date: 2024-04-12
 categories:
 - Biologi
-- IPAS
-- Kelas 11
 tags:
 - pernapasan
 - mekanisme pernapasan

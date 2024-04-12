@@ -105,6 +105,13 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-brain\" aria-hidden=\"true\"></i>"
   url = "https://brainly.co.id/profil/FΛZ-58027659"
 
+[[menu.misc]]
+  weight = 1
+  identifier = "repository"
+  name = "Source Code"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-code\" aria-hidden=\"true\"></i>"
+  url = "https://github.com/fazbrainly/f-lambda-z"
+
 # -------------
 # Customization
 # -------------

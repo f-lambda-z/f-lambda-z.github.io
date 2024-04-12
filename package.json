@@ -1,23 +1,5 @@
 {
-  "name": "f-lambda-z",
-  "version": "1.0.0",
-  "description": "Source code for my blog with Hugo.",
-  "main": "index.js",
-  "scripts": {
-    "start": "hugo server -D",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fazbrainly/f-lambda-z.git"
-  },
-  "keywords": [],
-  "author": "FΛZ",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/fazbrainly/f-lambda-z/issues"
-  },
-  "homepage": "https://github.com/fazbrainly/f-lambda-z#readme",
-  "dependencies": {},
-  "devDependencies": {}
+  "engines": {
+    "node": "18.x"
+  }
 }

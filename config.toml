@@ -17,7 +17,7 @@ languageCode = "id-id"
 defaultContentLanguage = "id-id"
 title = "Blog Pendidikan - FΛZ"
 theme = "tranquilpeak"
-disqusShortname = "flambdaz-disqus"
+disqusShortname = "flambdaz"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
@@ -342,7 +342,7 @@ canonifyurls = true
   [params.comment]
     [params.comment.disqus]
       enable = true
-      shortname = "flambdaz-disqus"
+      shortname = "flambdaz"
     [params.comment.gitalk]
       enable = false
       # clientId =

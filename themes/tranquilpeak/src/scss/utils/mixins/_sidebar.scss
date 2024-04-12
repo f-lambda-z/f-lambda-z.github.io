@@ -1,3 +1,9 @@
+// Mixin helper to animate sidebar transition (slide)
+@mixin sidebar-slide-animation {
+    transition:                  transform .25s ease-in-out;
+    -webkit-transition:          -webkit-transform .25s ease-in-out;
+}
+
 /// Mixin helper to display the sidebar in medium size
 @mixin sidebar-md {
     width: map-get($sidebar, md-screen-width);
@@ -26,6 +32,7 @@
 
                 .sidebar-button-icon {
                     font-size:      2rem;
+                    font-weight:    600;
                     display:        inline-block;
                     text-align:     center;
                     width:          30px;
@@ -80,6 +87,7 @@
                 // Font-awesome icon
                 .sidebar-button-icon {
                     font-size:      2rem;
+                    font-weight:    600;
                     display:        inline-block;
                     text-align:     center;
                     width:          30px;
@@ -110,15 +118,18 @@
 
 /// Mixin helper to display the sidebar in large size
 @mixin sidebar-xlg {
-    width:      map-get($sidebar, xlg-screen-width);
-    box-sizing: border-box;
-    padding:    0 80px;
+    width:           map-get($sidebar, xlg-screen-width);
+    display:         -webkit-flex;
+    display:         -webkit-box;
+    display:         -moz-box;
+    display:         -ms-flexbox;
+    display:         flex;
+    flex-direction:  column;
+    justify-content: center;
+
     .sidebar-container {
-        position:          relative;
-        top:               50%;
-        transform:         translateY(-50%);
-        -webkit-transform: translateY(-50%);
-        -moz-transform:    translateY(-50%);
+        position: relative;
+        padding:  0 80px;
     }
     // Author information
     .sidebar-profile {
@@ -162,6 +173,7 @@
                 // Font-awesome icon
                 .sidebar-button-icon {
                     font-size:      2rem;
+                    font-weight:    600;
                     float:          left;
                     text-align:     center;
                     width:          30px;

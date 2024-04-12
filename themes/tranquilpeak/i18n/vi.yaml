@@ -24,40 +24,16 @@
   translation: "Thông tin"
 
 - id: "global.author_picture"
-  translation: "Ảnh đại diện của tác giả"
+  translation: "Ảnh đại diện"
 
-- id: "global.github"
-  translation: "GitHub"
-
-- id: "global.stackoverflow"
-  translation: "Stack Overflow"
-
-- id: "global.twitter"
-  translation: "Twitter"
-
-- id: "global.facebook"
-  translation: "Facebook"
-
-- id: "global.google_plus"
-  translation: "Google Plus"
-
-- id: "global.linkedin"
-  translation: "LinkedIn"
+- id: "global.share_on"
+  translation: "Chia sẻ với %s"
 
 - id: "global.mail"
   translation: "Thư"
 
 - id: "global.rss"
   translation: "RSS"
-
-- id: "global.share_on_google_plus"
-  translation: "Chia sẻ với Google Plus"
-
-- id: "global.share_on_facebook"
-  translation: "Chia sẻ với Facebook"
-
-- id: "global.share_on_twitter"
-  translation: "Chia sẻ với Twitter"
 
 - id: "global.search_category"
   translation: "Tìm kiếm danh mục"
@@ -68,7 +44,22 @@
 - id: "global.search_date"
   translation: "Tìm theo ngày (YYYY/MM/DD)"
 
-## GLOBAL.POST_FOUND ##
+- id: "global.read_more_about_author"
+  translation: "Tìm hiểu thêm về tác giả"
+
+- id: "global.zoom_in_on_picture"
+  translation: "Phóng to hình ảnh"
+
+- id: "global.go_to_homepage"
+  translation: "Tới trang chủ"
+
+- id: "global.open_link"
+  translation: "Mở liên kết"
+
+- id: "global.open_post"
+  translation: "Mở bài"
+
+## GLOBAL.POSTS_FOUND ##
 - id: "global.posts_found.zero"
   translation: "không tìm thấy kết quả"
 
@@ -119,25 +110,45 @@
 
 ## POST ##
 - id: "post.no_title"
-  translation: "Không có tiêu đề"
+  translation: "Vô đề"
 
 - id: "post.categorized_in"
-  translation: "trong"
+  translation: "mục"
 
 - id: "post.tagged_in"
   translation: "THẺ ĐÁNH DẤU"
 
 - id: "post.toc"
-  translation: "Phụ lục"
+  translation: "Mục lục"
 
 - id: "post.read_more"
   translation: "Đọc tiếp..."
 
 - id: "post.go_to_website"
-  translation: "Đi tới website"
+  translation: "Chuyển tới trang"
 
 - id: "post.comment_and_share"
-  translation: "Comment và chia sẻ"
+  translation: "Bình luận và chia sẻ"
+
+- id: "post.comment"
+  translation: "Để lại một bình luận"
+
+- id: "post.back_to_top"
+  translation: "Trở lại đầu trang"
+
+- id: "post.share"
+  translation: "Chia sẻ bài viết này"
+
+- id: "post.gallery"
+  translation: "Bộ sưu tập"
+
+## POST.IMAGE ##
+
+- id: "post.image.one"
+  translation: "image"
+
+- id: "post.image.other"
+  translation: "{n} images"
 
 ## FOOTER ##
 - id: "footer.all_rights_reserved"
@@ -145,37 +156,37 @@
 
 ## DATE ##
 - id: "date.month.january"
-  translation: "Tháng một"
+  translation: "tháng 1"
 
 - id: "date.month.february"
-  translation: "Tháng hai"
+  translation: "tháng 2"
 
 - id: "date.month.march"
-  translation: "Tháng ba"
+  translation: "tháng 3"
 
 - id: "date.month.april"
-  translation: "Tháng tư"
+  translation: "tháng 4"
 
 - id: "date.month.may"
-  translation: "Tháng năm"
+  translation: "tháng 5"
 
 - id: "date.month.june"
-  translation: "Tháng sáu"
+  translation: "tháng 6"
 
 - id: "date.month.july"
-  translation: "Tháng bảy"
+  translation: "tháng 7"
 
 - id: "date.month.august"
-  translation: "Tháng tám"
+  translation: "tháng 8"
 
 - id: "date.month.september"
-  translation: "Tháng chín"
+  translation: "tháng 9"
 
 - id: "date.month.october"
-  translation: "Tháng mười"
+  translation: "tháng 10"
 
 - id: "date.month.november"
-  translation: "Tháng mười một"
+  translation: "tháng 11"
 
 - id: "date.month.december"
-  translation: "Tháng mười hai"
+  translation: "tháng 12"

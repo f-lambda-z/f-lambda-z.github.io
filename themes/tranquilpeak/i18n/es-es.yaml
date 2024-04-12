@@ -26,38 +26,14 @@
 - id: "global.author_picture"
   translation: "Foto de autor"
 
-- id: "global.github"
-  translation: "GitHub"
-
-- id: "global.stackoverflow"
-  translation: "Stack Overflow"
-
-- id: "global.twitter"
-  translation: "Twitter"
-
-- id: "global.facebook"
-  translation: "Facebook"
-
-- id: "global.google_plus"
-  translation: "Google Plus"
-
-- id: "global.linkedin"
-  translation: "LinkedIn"
+- id: "global.share_on"
+  translation: "Compartir en %s"
 
 - id: "global.mail"
   translation: "Correo"
 
 - id: "global.rss"
   translation: "RSS"
-
-- id: "global.share_on_google_plus"
-  translation: "Compartir en Google Plus"
-
-- id: "global.share_on_facebook"
-  translation: "Compartir en Facebook"
-
-- id: "global.share_on_twitter"
-  translation: "Compartir en Twitter"
 
 - id: "global.search_category"
   translation: "Buscar categoría"
@@ -67,6 +43,21 @@
 
 - id: "global.search_date"
   translation: "Buscar fecha (YYYY/MM/DD)"
+
+- id: "global.read_more_about_author"
+  translation: "Leer más sobre el autor"
+
+- id: "global.zoom_in_on_picture"
+  translation: "Acercar a la imagen"
+
+- id: "global.go_to_homepage"
+  translation: "Ir a la página de inicio"
+
+- id: "global.open_link"
+  translation: "Abre el enlace"
+
+- id: "global.open_post"
+  translation: "Abre el post"
 
 ## GLOBAL.POSTS_FOUND ##
 - id: "global.posts_found.zero"
@@ -138,6 +129,26 @@
 
 - id: "post.comment_and_share"
   translation: "Comentar y compartir"
+
+- id: "post.comment"
+  translation: "Deja un comentario"
+
+- id: "post.back_to_top"
+  translation: "Volver arriba"
+
+- id: "post.share"
+  translation: "Compartir esta publicacion"
+
+- id: "post.gallery"
+  translation: "Galería"
+
+## POST.IMAGE ##
+
+- id: "post.image.one"
+  translation: "imágen"
+
+- id: "post.image.other"
+  translation: "{n} imágenes"
 
 ## FOOTER ##
 - id: "footer.all_rights_reserved"

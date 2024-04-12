@@ -26,38 +26,14 @@
 - id: "global.author_picture"
   translation: "Author's picture"
 
-- id: "global.github"
-  translation: "GitHub"
-
-- id: "global.stackoverflow"
-  translation: "Stack Overflow"
-
-- id: "global.twitter"
-  translation: "Twitter"
-
-- id: "global.facebook"
-  translation: "Facebook"
-
-- id: "global.google_plus"
-  translation: "Google Plus"
-
-- id: "global.linkedin"
-  translation: "LinkedIn"
+- id: "global.share_on"
+  translation: "Share on %s"
 
 - id: "global.mail"
   translation: "Mail"
 
 - id: "global.rss"
   translation: "RSS"
-
-- id: "global.share_on_google_plus"
-  translation: "Share on Google Plus"
-
-- id: "global.share_on_facebook"
-  translation: "Share on Facebook"
-
-- id: "global.share_on_twitter"
-  translation: "Share on Twitter"
 
 - id: "global.search_category"
   translation: "Search category"
@@ -68,7 +44,22 @@
 - id: "global.search_date"
   translation: "Search date (YYYY/MM/DD)"
 
-## GLOBAL.POST_FOUND ##
+- id: "global.read_more_about_author"
+  translation: "Read more about the author"
+
+- id: "global.zoom_in_on_picture"
+  translation: "Zoom in on the picture"
+
+- id: "global.go_to_homepage"
+  translation: "Go to homepage"
+
+- id: "global.open_link"
+  translation: "Open the link"
+
+- id: "global.open_post"
+  translation: "Open the post"
+
+## GLOBAL.POSTS_FOUND ##
 - id: "global.posts_found.zero"
   translation: "no post found"
 
@@ -138,6 +129,26 @@
 
 - id: "post.comment_and_share"
   translation: "Comment and share"
+
+- id: "post.comment"
+  translation: "Leave a comment"
+
+- id: "post.back_to_top"
+  translation: "Back to top"
+
+- id: "post.share"
+  translation: "Share this post"
+
+- id: "post.gallery"
+  translation: "Gallery"
+
+## POST.IMAGE ##
+
+- id: "post.image.one"
+  translation: "image"
+
+- id: "post.image.other"
+  translation: "{n} images"
 
 ## FOOTER ##
 - id: "footer.all_rights_reserved"

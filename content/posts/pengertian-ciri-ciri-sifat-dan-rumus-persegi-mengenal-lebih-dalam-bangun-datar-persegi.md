@@ -37,13 +37,13 @@ Persegi mempunyai ciri-ciri dan sifat yang membedakannya dengan bangun datar lai
 Rumusnya:
 
 $$
-\large{\boxed{\bf K = s + s + s + s}}
+\large{\bf K = s + s + s + s}
 $$
 
 atau
 
 $$
-\large{\boxed{\bf K = 4 \times s}}
+\large{\bf K = 4 \times s}
 $$
 
 dimana:
@@ -56,7 +56,7 @@ dimana:
 Rumusnya:
 
 $$
-\large{\boxed{\bf L = s \times s}}
+\large{\bf L = s \times s}
 $$
 
 dimana:

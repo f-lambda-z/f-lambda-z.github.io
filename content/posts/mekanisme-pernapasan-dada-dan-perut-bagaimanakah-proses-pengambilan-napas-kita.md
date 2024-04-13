@@ -32,12 +32,14 @@ Menurut _NHS_ (National Health Service - UK), pernapasan dada ditandai dengan ge
 </div>
 
 **Fase Inspirasi (Pengambilan Napas)**
+
 - Otot antar tulang rusuk atau interkostal berkontraksi.
 - Volume rongga dada dan paru-paru membesar.
 - Tekanan udara dalam paru-paru lebih kecil dibandingkan tekanan udara di luar.
 - Udara masuk ke dalam paru-paru.
 
 **Fase Ekspirasi (Pengeluaran Napas)**
+
 - Otot antar tulang rusuk berelaksasi.
 - Volume rongga dada dan paru-paru mengecil.
 - Tekanan udara dalam paru-paru lebih besar dibandingkan tekanan udara di luar.
@@ -54,6 +56,7 @@ Menurut _NHS_ (National Health Service - UK), pernapasan dada ditandai dengan ge
 </div>
 
 **Fase Inspirasi (Pengambilan Napas)**
+
 - Otot diafragma berkontraksi.
 - Volume rongga dada membesar dan diafragma mendatar.
 - Tekanan udara mengecil dan paru-paru mengembang.
@@ -61,6 +64,7 @@ Menurut _NHS_ (National Health Service - UK), pernapasan dada ditandai dengan ge
 - Udara masuk ke dalam paru-paru.
 
 **Fase Ekspirasi (Pengeluaran Napas)**
+
 - Otot diafragma berelaksasi.
 - Otot dinding perut berkontraksi.
 - Diafragma terangkat dan kemudian menekan rongga dada.

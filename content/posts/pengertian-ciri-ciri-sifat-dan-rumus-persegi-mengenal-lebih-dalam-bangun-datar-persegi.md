@@ -82,9 +82,11 @@ dimana:
 <p><strong>1. Mencari Keliling Taman</strong></p>
 
 $$
-\begin{aligned} \rm K & = \rm 4 \times s \\
-\rm K & = 4 \times 5 \\
-\rm K & = \bf 20 ~ m \end{aligned}
+\begin{aligned}
+\rm K & = \rm 4 \times s \newline
+\rm K & = 4 \times 5 \newline
+\rm K & = \bf 20 ~ m
+\end{aligned}
 $$
 
 Jadi, keliling taman milik Pak Dengklek adalah **20 m**.
@@ -92,9 +94,11 @@ Jadi, keliling taman milik Pak Dengklek adalah **20 m**.
 <p><strong>2. Mencari Luas Taman</strong></p>
 
 $$
-\begin{aligned} \rm L & = \rm s \times s \\
-\rm L & = 5 \times 5 \\
-\rm L & = \bf 25 ~ m^2 \end{aligned}
+\begin{aligned}
+\rm L & = \rm s \times s \newline
+\rm L & = 5 \times 5 \newline
+\rm L & = \bf 25 ~ m^2
+\end{aligned}
 $$
 
 Jadi, luas taman milik Pak Dengklek adalah **25 m<sup>2</sup>**.
@@ -116,17 +120,21 @@ Jadi, luas taman milik Pak Dengklek adalah **25 m<sup>2</sup>**.
 <p><strong>1. Cari luas per ubin</strong></p>
 
 $$
-\begin{aligned} \rm L\_{ubin} & = \rm s \times s \\
-\rm L\_{ubin} & = 0,3 \times 0,3 \\
-\rm L\_{ubin} & = \bf 0,09 ~ m^2 \end{aligned}
+\begin{aligned}
+\rm L\_{ubin} & = \rm s \times s \newline
+\rm L\_{ubin} & = 0,3 \times 0,3 \newline
+\rm L\_{ubin} & = \bf 0,09 ~ m^2
+\end{aligned}
 $$
 
 <p><strong>2. Hitung total ubin yang diperlukan</strong></p>
 
 $$
-\begin{aligned} \rm Jumlah ~ ubin & = \rm \frac{L\_{lantai}}{L\_{ubin}} \\
-\rm Jumlah ~ ubin & = \frac{9}{0,09} \\
-\rm Jumlah ~ ubin & = \bf 100 ~ ubin \end{aligned}
+\begin{aligned}
+\rm Jumlah ~ ubin & = \rm \frac{L\_{lantai}}{L\_{ubin}} \newline
+\rm Jumlah ~ ubin & = \frac{9}{0,09} \newline
+\rm Jumlah ~ ubin & = \bf 100 ~ ubin
+\end{aligned}
 $$
 
 Jadi, jumlah ubin yang dibutuhkan Pak Dengklek adalah sebanyak **100 ubin**.

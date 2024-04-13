@@ -72,4 +72,4 @@ Menurut _NHS_ (National Health Service - UK), pernapasan dada ditandai dengan ge
 - Tekanan udara di dalam paru-paru lebih besar dibandingkan tekanan udara di luar.
 - Udara keluar dari dalam paru-paru.
 
-Itu dia proses atau mekanisme pernapasan dada dan perut atau diafragma saat di fase inspirasi dan ekspirasi. Semoga postingan mimin bermanfaat ya!!
+Itu dia mekanisme pernapasan dada dan perut atau diafragma saat di fase inspirasi dan ekspirasi. Semoga postingan ini bermanfaat ya!!

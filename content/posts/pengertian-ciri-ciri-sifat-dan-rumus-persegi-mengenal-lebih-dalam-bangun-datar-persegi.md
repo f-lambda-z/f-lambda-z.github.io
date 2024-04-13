@@ -103,6 +103,7 @@ $$
 
 Jadi, luas taman milik Pak Dengklek adalah **25 m<sup>2</sup>**.
 
+---
 
 <p>2. Pak Dengklek membeli ubin lantai berbentuk persegi dengan ukuran sisi 30 cm. Jika Pak Dengklek ingin menutupi lantai seluas 9 meter persegi, berapa ubin yang dibutuhkan?</p>
 
@@ -138,3 +139,5 @@ $$
 $$
 
 Jadi, jumlah ubin yang dibutuhkan Pak Dengklek adalah sebanyak **100 ubin**.
+
+Itulah penjelasan singkat seputar bangun datar persegi. Semoga postingan ini bermanfaat ya!!

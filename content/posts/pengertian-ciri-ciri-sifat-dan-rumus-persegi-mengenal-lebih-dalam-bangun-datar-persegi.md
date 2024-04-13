@@ -82,5 +82,43 @@ dimana:
 <p><strong>1. Mencari Keliling Taman</strong></p>
 
 $$
-\begin{aligned} \rm K & = \rm 4 \times s \\ \rm K & = 4 \times 5 \\ \rm K & = \bf 20 \: m \end{aligned}
+\begin{aligned} \rm K & = \rm 4 \times s \\ \rm K & = 4 \times 5 \\ \rm K & = \bf 20 ~ m \end{aligned}
 $$
+
+Jadi, keliling taman milik Pak Dengklek adalah **20 m**.
+
+<p><strong>2. Mencari Luas Taman</strong></p>
+
+$$
+\begin{aligned} \rm L & = \rm s \times s \\ \rm L & = 5 \times 5 \\ \rm L & = \bf 25 ~ m^2 \end{aligned}
+$$
+
+Jadi, luas taman milik Pak Dengklek adalah **25 m<sup>2</sup>**.
+
+
+<p>2. Pak Dengklek membeli ubin lantai berbentuk persegi dengan ukuran sisi 30 cm. Jika Pak Dengklek ingin menutupi lantai seluas 9 meter persegi, berapa ubin yang dibutuhkan?</p>
+
+**Diketahui:**
+
+- Panjang ubin (s) = 30 cm → 0,3 m
+- Luas lantai = 9 m<sup>2</sup>
+
+**Ditanyakan:**
+
+- Berapa ubin yang diperlukan Pak Dengklek untuk menutupi lantainya?
+
+**Jawab:**
+
+<p><strong>1. Cari luas per ubin</strong></p>
+
+$$
+\begin{aligned} \rm L_{ubin} & = \rm s \times s \\ \rm L_{ubin} & = 0,3 \times 0,3 \\ \rm L_{ubin} & = \bf 0,09 ~ m^2 \end{aligned}
+$$
+
+<p><strong>2. Hitung total ubin yang diperlukan</strong></p>
+
+$$
+\begin{aligned} \rm Jumlah ~ ubin & = \rm \frac{L_{lantai}}{L_{ubin}} \\ \rm Jumlah ~ ubin & = \frac{9}{0,09} \\ \rm Jumlah ~ ubin & = \bf 100 ~ ubin \end{aligned}
+$$
+
+Jadi, jumlah ubin yang dibutuhkan Pak Dengklek adalah sebanyak **100 ubin**.

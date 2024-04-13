@@ -13,6 +13,8 @@ thumbnailImage: /images/posts/bangun_datar_persegi_thumbnail_20240413.jpg
 
 Bentuk **persegi** tentunya sudah tidak asing bagi kita karena sering kita jumpai dalam kehidupan sehari-hari. Benda-benda yang berbentuk persegi misalnya lantai keramik, kardus, papan catur, dan masih banyak lagi. Bagi kalian yang belum tahu, yuk simak pembahasannya!
 
+<!--more-->
+
 ## Apa itu Persegi?
 
 Simpelnya, **persegi** adalah bangun datar 2 dimensi yang dibentuk oleh empat sisi yang sama panjang dan keempat sudutnya siku-siku (90°). Persegi sering disebut juga bujur sangkar.

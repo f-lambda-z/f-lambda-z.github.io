@@ -13,6 +13,8 @@ thumbnailImage: /images/posts/pernapasan_thumbnail_20240413.jpg
 
 Bernapas adalah kegiatan tubuh kita yang dilakukan secara tidak sadar. Kita membutuhkan bernapas untuk bisa bertahan hidup. Namun, pernahkah terbenak di pikiran kalian sebuah pertanyaan bagaimanakah proses bernapas itu?
 
+<!--more-->
+
 ## Pengertian Pernapasan
 
 Secara singkat, **respirasi** atau **pernapasan** adalah sebuah proses pengambilan oksigen (O<sub>2</sub>) yang terkandung dalam udara dari lingkungan luar ke dalam tubuh dan pengeluaran karbon dioksida (CO<sub>2</sub>) dari dalam tubuh ke lingkungan. Respirasi bertujuan untuk mendapatkan energi, sehingga kita dapat bertahan hidup dan beraktivitas.

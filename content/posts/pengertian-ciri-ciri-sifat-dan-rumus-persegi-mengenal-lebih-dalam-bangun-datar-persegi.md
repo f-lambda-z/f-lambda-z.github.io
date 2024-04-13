@@ -112,13 +112,13 @@ Jadi, luas taman milik Pak Dengklek adalah **25 m<sup>2</sup>**.
 <p><strong>1. Cari luas per ubin</strong></p>
 
 $$
-\begin{aligned} \rm L_{ubin} & = \rm s \times s \\ \rm L_{ubin} & = 0,3 \times 0,3 \\ \rm L_{ubin} & = \bf 0,09 ~ m^2 \end{aligned}
+\begin{aligned} \rm L\_{ubin} & = \rm s \times s \\ \rm L\_{ubin} & = 0,3 \times 0,3 \\ \rm L\_{ubin} & = \bf 0,09 ~ m^2 \end{aligned}
 $$
 
 <p><strong>2. Hitung total ubin yang diperlukan</strong></p>
 
 $$
-\begin{aligned} \rm Jumlah ~ ubin & = \rm \frac{L_{lantai}}{L_{ubin}} \\ \rm Jumlah ~ ubin & = \frac{9}{0,09} \\ \rm Jumlah ~ ubin & = \bf 100 ~ ubin \end{aligned}
+\begin{aligned} \rm Jumlah ~ ubin & = \rm \frac{L\_{lantai}}{L\_{ubin}} \\ \rm Jumlah ~ ubin & = \frac{9}{0,09} \\ \rm Jumlah ~ ubin & = \bf 100 ~ ubin \end{aligned}
 $$
 
 Jadi, jumlah ubin yang dibutuhkan Pak Dengklek adalah sebanyak **100 ubin**.

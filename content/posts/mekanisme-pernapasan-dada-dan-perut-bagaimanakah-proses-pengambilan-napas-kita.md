@@ -7,7 +7,7 @@ tags:
 - pernapasan
 - mekanisme pernapasan
 - pernapasan manusia
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 thumbnailImage: /images/posts/pernapasan_thumbnail_20240413.jpg
 ---
 

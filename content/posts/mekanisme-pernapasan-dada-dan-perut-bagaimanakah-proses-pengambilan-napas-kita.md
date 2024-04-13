@@ -1,6 +1,6 @@
 ---
 title: "Mekanisme Pernapasan Dada dan Perut: Bagaimanakah Proses Pengambilan Napas Kita?"
-date: 2024-04-13
+date: 2024-04-13T01:23:45.192Z
 categories:
 - Biologi
 tags:

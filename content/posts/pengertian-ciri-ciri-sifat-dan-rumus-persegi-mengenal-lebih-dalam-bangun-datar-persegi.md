@@ -1,6 +1,6 @@
 ---
 title: "Pengertian, Ciri-ciri, Sifat, dan Rumus Persegi: Mengenal Lebih Dalam Bangun Datar Persegi"
-date: 2024-04-13
+date: 2024-04-13T08:02:22.722Z
 categories:
 - Matematika
 tags:

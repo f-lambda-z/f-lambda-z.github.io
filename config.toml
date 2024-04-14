@@ -115,6 +115,9 @@ canonifyurls = true
 # -------------
 # Customization
 # -------------
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   # -----------
   # Description

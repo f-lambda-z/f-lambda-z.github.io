@@ -8,7 +8,7 @@ tags:
 - mekanisme pernapasan
 - pernapasan manusia
 thumbnailImagePosition: left
-thumbnailImage: cover.jpg
+thumbnailImage: cover.jpeg
 ---
 
 Bernapas adalah kegiatan tubuh kita yang dilakukan secara tidak sadar. Kita membutuhkan bernapas untuk bisa bertahan hidup. Namun, pernahkah terbenak di pikiran kalian sebuah pertanyaan bagaimanakah proses bernapas itu?

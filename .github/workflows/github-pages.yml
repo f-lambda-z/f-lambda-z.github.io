@@ -54,7 +54,7 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-          npm run change-title
+          npm run change-head
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:

@@ -31,6 +31,7 @@ done
 # Change description #
 ######################
 # Homepage
+sed -i 's@"description":"Blog Pendidikan"@"description":"Blog khusus pendidikan. Ayo, belajar dari blog Kami!!"@g' ./public/index.html
 sed -i 's@<meta property="og:description" content="Blog Pendidikan">@<meta property="og:description" content="Blog khusus pendidikan. Ayo, belajar dari blog Kami!!">@g' ./public/index.html
-sed -i 's@<meta name="description" content="Blog Pendidikan">@<meta name="description" content="Blog khusus pendidikan. Ayo, belajar dari blog Kami!!">@g' ./public/index.html
-sed -i 's@<meta name="twitter:description" content="Blog Pendidikan">@<meta name="twitter:description" content="Blog khusus pendidikan. Ayo, belajar dari blog Kami!!">@g' ./public/index.html
+sed -i 's@<meta name=description content="Blog Pendidikan">@<meta name="description" content="Blog khusus pendidikan. Ayo, belajar dari blog Kami!!">@g' ./public/index.html
+sed -i 's@<meta name=twitter:description content="Blog Pendidikan">@<meta name="twitter:description" content="Blog khusus pendidikan. Ayo, belajar dari blog Kami!!">@g' ./public/index.html

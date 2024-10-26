@@ -1,5 +1,8 @@
 titleSite="Blog Pendidikan FΛZ"
 
+################
+# Change title #
+################
 sed -i "s@<title>Categories</title>@<title>Kategori · ${titleSite}</title>@g" ./public/categories/index.html
 sed -i "s@<title>Tags</title>@<title>Tag · ${titleSite}</title>@g" ./public/tags/index.html
 sed -i "s@<title>Archives</title>@<title>Arsip · ${titleSite}</title>@g" ./public/archives/index.html
@@ -22,3 +25,11 @@ for d in "${tags[@]}"; do
     sed -i "s@</title>@ · ${titleSite}</title>@g" ./public/tags/$d/index.html
   fi
 done
+
+######################
+# Change description #
+######################
+# Homepage
+sed -i 's@<meta property="og:description" content="Blog Pendidikan">@<meta property="og:description" content="Blog khusus pendidikan. Ayo, belajar dari blog Kami!!">@g' ./public/index.html
+sed -i 's@<meta name="description" content="Blog Pendidikan">@<meta name="description" content="Blog khusus pendidikan. Ayo, belajar dari blog Kami!!">@g' ./public/index.html
+sed -i 's@<meta name="twitter:description" content="Blog Pendidikan">@<meta name="twitter:description" content="Blog khusus pendidikan. Ayo, belajar dari blog Kami!!">@g' ./public/index.html

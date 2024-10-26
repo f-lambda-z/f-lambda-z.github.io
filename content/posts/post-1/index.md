@@ -8,7 +8,7 @@ tags:
 - mekanisme pernapasan
 - pernapasan manusia
 thumbnailImagePosition: left
-thumbnailImage: /images/posts/pernapasan_thumbnail_20240413.jpg
+thumbnailImage: cover.jpg
 ---
 
 Bernapas adalah kegiatan tubuh kita yang dilakukan secara tidak sadar. Kita membutuhkan bernapas untuk bisa bertahan hidup. Namun, pernahkah terbenak di pikiran kalian sebuah pertanyaan bagaimanakah proses bernapas itu?
@@ -30,7 +30,7 @@ Menurut _NHS_ (National Health Service - UK), pernapasan dada ditandai dengan ge
 ## Mekanisme Pernapasan Dada
 
 <div align="center">
-  <img src="/images/posts/mekanisme_pernapasan_dada_20240413.jpeg" alt="Mekanisme Pernapasan Dada" width="90%"/>
+  <img src="mekanisme_pernapasan_dada.jpeg" alt="Mekanisme Pernapasan Dada"/>
 </div>
 
 **Fase Inspirasi (Pengambilan Napas)**
@@ -54,7 +54,7 @@ Menurut _NHS_ (National Health Service - UK), pernapasan dada ditandai dengan ge
 ## Mekanisme Pernapasan Perut
 
 <div align="center">
-  <img src="/images/posts/mekanisme_pernapasan_perut_20240413.jpeg" alt="Mekanisme Pernapasan Perut" width="90%"/>
+  <img src="mekanisme_pernapasan_perut.jpeg" alt="Mekanisme Pernapasan Perut"/>
 </div>
 
 **Fase Inspirasi (Pengambilan Napas)**

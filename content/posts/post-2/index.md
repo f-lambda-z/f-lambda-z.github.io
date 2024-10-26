@@ -8,7 +8,7 @@ tags:
 - persegi
 - rumus bangun datar
 thumbnailImagePosition: left
-thumbnailImage: /images/posts/bangun_datar_persegi_thumbnail_20240413.jpg
+thumbnailImage: cover.jpg
 ---
 
 Bentuk **persegi** tentunya sudah tidak asing bagi kita karena sering kita jumpai dalam kehidupan sehari-hari. Benda-benda yang berbentuk persegi misalnya lantai keramik, kardus, papan catur, dan masih banyak lagi. Bagi kalian yang belum tahu, yuk simak pembahasannya!
@@ -20,7 +20,7 @@ Bentuk **persegi** tentunya sudah tidak asing bagi kita karena sering kita jumpa
 Simpelnya, **persegi** adalah bangun datar 2 dimensi yang dibentuk oleh empat sisi yang sama panjang dan keempat sudutnya siku-siku (90°). Persegi sering disebut juga bujur sangkar.
 
 <div align="center">
-  <img src="/images/posts/gambar_bangun_datar_persegi_20240413.png" alt="Gambar Persegi" width="85%"/>
+  <img src="gambar_bangun_datar_persegi.png" alt="Gambar Persegi"/>
 </div>
 
 ## Ciri-ciri dan Sifat

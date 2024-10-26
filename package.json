@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "change-title": "bash change-title.sh"
+    "change-head": "bash change-head.sh"
   }
 }

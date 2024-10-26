@@ -15,7 +15,7 @@
 baseURL = "https://f-lambda-z.vercel.app/"
 languageCode = "id-id"
 defaultContentLanguage = "id-id"
-title = "Blog Pendidikan - FΛZ"
+title = "Blog Pendidikan FΛZ"
 theme = "tranquilpeak"
 disqusShortname = "flambdaz"
 # googleAnalytics = "UA-123-45"

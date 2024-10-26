@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "change-title": "bash change-title.sh"
+  }
+}

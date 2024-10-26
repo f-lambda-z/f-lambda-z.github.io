@@ -1,3 +1,4 @@
+#!/bin/bash
 titleSite="Blog Pendidikan FΛZ"
 
 ################

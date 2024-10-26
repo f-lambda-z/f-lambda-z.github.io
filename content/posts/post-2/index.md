@@ -8,7 +8,7 @@ tags:
 - persegi
 - rumus bangun datar
 thumbnailImagePosition: left
-thumbnailImage: ./cover.jpeg
+thumbnailImage: /2024/04/pengertian-ciri-ciri-sifat-dan-rumus-persegi-mengenal-lebih-dalam-bangun-datar-persegi/cover.jpeg
 ---
 
 Bentuk **persegi** tentunya sudah tidak asing bagi kita karena sering kita jumpai dalam kehidupan sehari-hari. Benda-benda yang berbentuk persegi misalnya lantai keramik, kardus, papan catur, dan masih banyak lagi. Bagi kalian yang belum tahu, yuk simak pembahasannya!

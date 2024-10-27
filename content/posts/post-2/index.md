@@ -23,6 +23,7 @@ Simpelnya, **persegi** adalah bangun datar 2 dimensi yang dibentuk oleh empat si
 
 ![Gambar Persegi](gambar_bangun_datar_persegi.png)
 
+<span class="caption">Mekanisme Pernapasan Dada</span>
 </div>
 
 ## Ciri-ciri dan Sifat

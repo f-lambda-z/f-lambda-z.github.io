@@ -33,6 +33,8 @@ Menurut _NHS_ (National Health Service - UK), pernapasan dada ditandai dengan ge
 
 ![Mekanisme Pernapasan Dada](mekanisme_pernapasan_dada.jpeg)
 
+<span class="caption">Mekanisme Pernapasan Dada</span>
+
 </div>
 
 **Fase Inspirasi (Pengambilan Napas)**
@@ -51,13 +53,15 @@ Menurut _NHS_ (National Health Service - UK), pernapasan dada ditandai dengan ge
 
 ## Pernapasan Perut
 
-**Pernapasan dada** adalah pernapasan yang melibatkan otot diafragma sebagai penggerak utamanya. Saat menghembuskan napas, otot diafragma akan rileks dan bergerak ke atas, sedangkan otot interkostal akan berkontraksi dan menarik tulang rusuk ke bawah. Hal ini menyebabkan volume rongga dada mengecil dan udara terdorong keluar dari paru-paru. Pergerakan otot diafragma yang berlawanan dengan otot interkostal ini merupakan ciri khas pernapasan perut. Oleh karena itu, pernapasan perut juga dikenal sebagai _diaphragmatic breathing_ atau pernapasan diafragma.
+**Pernapasan perut** adalah pernapasan yang melibatkan otot diafragma sebagai penggerak utamanya. Saat menghembuskan napas, otot diafragma akan rileks dan bergerak ke atas, sedangkan otot interkostal akan berkontraksi dan menarik tulang rusuk ke bawah. Hal ini menyebabkan volume rongga dada mengecil dan udara terdorong keluar dari paru-paru. Pergerakan otot diafragma yang berlawanan dengan otot interkostal ini merupakan ciri khas pernapasan perut. Oleh karena itu, pernapasan perut juga dikenal sebagai _diaphragmatic breathing_ atau pernapasan diafragma.
 
 ## Mekanisme Pernapasan Perut
 
 <div align="center">
 
 ![Mekanisme Pernapasan Perut](mekanisme_pernapasan_perut.jpeg)
+
+<span class="caption">Mekanisme Pernapasan Perut</span>
 
 </div>
 

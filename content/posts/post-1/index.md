@@ -34,7 +34,6 @@ Menurut _NHS_ (National Health Service - UK), pernapasan dada ditandai dengan ge
 ![Mekanisme Pernapasan Dada](mekanisme_pernapasan_dada.jpeg)
 
 <span class="caption">Mekanisme Pernapasan Dada</span>
-
 </div>
 
 **Fase Inspirasi (Pengambilan Napas)**
@@ -62,7 +61,6 @@ Menurut _NHS_ (National Health Service - UK), pernapasan dada ditandai dengan ge
 ![Mekanisme Pernapasan Perut](mekanisme_pernapasan_perut.jpeg)
 
 <span class="caption">Mekanisme Pernapasan Perut</span>
-
 </div>
 
 **Fase Inspirasi (Pengambilan Napas)**

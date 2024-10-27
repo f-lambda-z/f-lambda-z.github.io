@@ -1,5 +1,5 @@
 ---
-title: "Ini Dia Aspek-Aspek yang Membedakan Produk Jasa dan Barang Fisik"
+title: "Ini Dia Aspek-Aspek yang Membedakan Produk Jasa dengan Barang Fisik"
 date: 2024-07-24T04:10:21.232Z
 categories:
 - Prakarya & Kewirausahaan

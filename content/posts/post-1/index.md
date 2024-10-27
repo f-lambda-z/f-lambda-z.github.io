@@ -8,7 +8,7 @@ tags:
 - mekanisme pernapasan
 - pernapasan manusia
 thumbnailImagePosition: left
-thumbnailImage: /2024/04/mekanisme-pernapasan-dada-dan-perut-bagaimanakah-proses-pengambilan-napas-kita/cover.jpeg
+thumbnailImage: /images/posts/thumbnail_post_1.jpeg
 ---
 
 Bernapas adalah kegiatan tubuh kita yang dilakukan secara tidak sadar. Kita membutuhkan bernapas untuk bisa bertahan hidup. Namun, pernahkah terbenak di pikiran kalian sebuah pertanyaan bagaimanakah proses bernapas itu?

@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "change-head": "bash change-head.sh"
+    "change": "bash change-head.sh && bash change-name.sh"
   }
 }

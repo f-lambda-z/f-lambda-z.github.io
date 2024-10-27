@@ -20,7 +20,9 @@ Bentuk **persegi** tentunya sudah tidak asing bagi kita karena sering kita jumpa
 Simpelnya, **persegi** adalah bangun datar 2 dimensi yang dibentuk oleh empat sisi yang sama panjang dan keempat sudutnya siku-siku (90°). Persegi sering disebut juga bujur sangkar.
 
 <div align="center">
-  <img src="gambar_bangun_datar_persegi.png" alt="Gambar Persegi"/>
+
+![Gambar Persegi](gambar_bangun_datar_persegi.png)
+
 </div>
 
 ## Ciri-ciri dan Sifat

@@ -10,7 +10,7 @@ tags:
 - etika
 - etika kerja
 thumbnailImagePosition: left
-thumbnailImage: /images/posts/thumbnail_post_4.webp
+thumbnailImage: /images/posts/thumbnail_post_9.webp
 ---
 
 Dalam dunia kerja, memiliki kompetensi yang memadai dan etika yang baik adalah kunci bagi setiap profesional untuk meraih kesuksesan. Apa sajakah itu? Mari simak pembahasan berikut ini!

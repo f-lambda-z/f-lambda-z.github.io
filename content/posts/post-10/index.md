@@ -9,7 +9,7 @@ tags:
 - produk
 - barang
 thumbnailImagePosition: left
-thumbnailImage: /images/posts/thumbnail_post_5.jpg
+thumbnailImage: /images/posts/thumbnail_post_10.jpg
 ---
 
 Dalam dunia usaha, baik produk jasa maupun barang fisik memiliki peran penting. Namun, kedua jenis produk ini memiliki aspek-aspek yang membedakan satu sama lain. Apa sajakah itu, mari kita bahas satu per satu.

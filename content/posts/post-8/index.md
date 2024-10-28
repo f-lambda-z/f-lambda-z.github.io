@@ -7,7 +7,7 @@ tags:
 - inflasi
 - teori inflasi
 thumbnailImagePosition: left
-thumbnailImage: /images/posts/thumbnail_post_3.jpg
+thumbnailImage: /images/posts/thumbnail_post_8.jpg
 ---
 
 Inflasi merupakan fenomena ekonomi yang hampir semua orang pernah dengar dan rasakan dampaknya, tetapi mungkin belum sepenuhnya memahami apa itu inflasi secara mendalam. Nah, di artikel kali ini, kita akan mengulas pengertian inflasi secara mendalam serta teori-teori yang mendasarinya untuk memberikan pemahaman yang lebih menyeluruh mengenai fenomena ini.

@@ -44,10 +44,10 @@ canonifyurls = true
 # Author
 # ------
 [author]
-  name = "FΛZ"
+  name = "Rangga Fajar Oktariansyah"
   bio = "Hanya remaja biasa yang sedang melawan hawa nafsunya."
   job = "Penulis Mimpi dan Harapan"
-  location = "Indonesia"
+  location = "Garut, Indonesia"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # gravatarEmail = "thibaud.lepretre@gmail.com"
   # Your profile picture
